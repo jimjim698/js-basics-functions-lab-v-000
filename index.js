@@ -31,7 +31,7 @@ function distanceFromHqInFeet(street){
 function distanceTravelledInFeet(a,b){
   let result 
   let x
-  x = a - b 
+  x = a - b; 
   (x<0) ? x * -1 : x;
   result = x *264
   return result 
