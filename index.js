@@ -44,7 +44,7 @@ function calculatesFarePrice(start, finish){
   x = distanceTravelledInFeet(start, finish);
   switch(x){
     case x <= 400:
-      result = ""
+      result = 0
   }
   return result 
   
