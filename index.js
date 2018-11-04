@@ -48,7 +48,9 @@ function calculatesFarePrice(start, finish){
       break;
       case false:
         if(x> 2000 && x < 2500){
-          result = 25 
+          result = 25;
+          else if(x < 2000)
+          
         }
         break;
   }
