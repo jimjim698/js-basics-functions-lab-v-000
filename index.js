@@ -40,6 +40,8 @@ function distanceTravelledInFeet(start,finish){
 
 function calculatesFarePrice(start, finish){
   let result 
+  let x
+  x = distanceTravelledInFeet(start, finish);
   
   
 }
