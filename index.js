@@ -10,6 +10,6 @@ function distanceFromHqInBlocks(street){
       result = 42 - street
       break;
   }
-  
+  return result
   
 }
