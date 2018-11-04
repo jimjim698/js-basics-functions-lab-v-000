@@ -13,3 +13,4 @@ function distanceFromHqInBlocks(street){
   return result
   
 }
+
