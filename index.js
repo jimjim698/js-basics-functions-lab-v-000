@@ -53,7 +53,6 @@ function calculatesFarePrice(start, finish){
             result = ((x-400) * .02);
           }
           
-        }
         break;
   }
   return result 
