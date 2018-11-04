@@ -28,10 +28,10 @@ function distanceFromHqInFeet(street){
 }
 
 
-function distanceTravelledInFeet(start,finish){
+function distanceTravelledInFeet(a,b){
   let result 
   let x
-  x = start - finish
+  x = a - b 
   (x<0) ? x * -1 : x;
   result = x *264
   return result 
