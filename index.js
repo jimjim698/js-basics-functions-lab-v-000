@@ -14,7 +14,7 @@ function distanceFromHqInBlocks(street){
   
 }
 
-function distanceFromHqInFeet(){
+function distanceFromHqInFeet(street){
     let result 
   switch(street >42){
   case true:
