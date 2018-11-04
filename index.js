@@ -38,6 +38,11 @@ function distanceTravelledInFeet(start,finish){
   
 }
 
+function calculatesFarePrice(start, finish){
+  let result 
+  
+  
+}
 
 
 
