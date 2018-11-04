@@ -32,7 +32,7 @@ function distanceTravelledInFeet(start,finish){
   let result 
   let x
   x = start - finish; 
-  (x<0) ? x * -1 : x;
+  (x<0) ? x = x * -1 : x;
   result = x *264
   return result 
   
