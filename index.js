@@ -50,7 +50,7 @@ function calculatesFarePrice(start, finish){
         if(x> 2000 && x < 2500){
           result = 25;
           }else if(x < 2000){
-            result = (x-400) * .02;
+            result = ((x-400) * .02);
           }
           
         }
