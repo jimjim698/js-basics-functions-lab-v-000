@@ -28,7 +28,10 @@ function distanceFromHqInFeet(street){
 }
 
 
-function distanceTravelledInFeet(){
+function distanceTravelledInFeet(start, finish){
+  let result 
+  let x = start - finish
+  
   
 }
 
