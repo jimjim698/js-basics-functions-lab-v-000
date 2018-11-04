@@ -15,5 +15,14 @@ function distanceFromHqInBlocks(street){
 }
 
 function distanceFromHqInFeet(){
-  
+    let result 
+  switch(street >42){
+  case true:
+    result = (street - 42) * 264
+    break;
+    case false:
+      result = (42 - street) * 264
+      break;
+  }
+  return result
 }
