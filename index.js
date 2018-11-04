@@ -2,8 +2,11 @@
 
 function distanceFromHqInBlocks(street){
   let result 
-  switch case street > 42){
+  switch(street)
+  case street > 42
     result = street - 42
-  }
+    break;
+    
+  
   
 }
