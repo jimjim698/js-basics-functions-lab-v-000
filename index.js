@@ -45,6 +45,7 @@ function calculatesFarePrice(start, finish){
   switch(x){
     case x <= 400:
       result = 0
+      break;
   }
   return result 
   
