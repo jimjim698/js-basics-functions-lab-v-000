@@ -53,7 +53,7 @@ function calculatesFarePrice(start, finish){
             result = ((x-400) * .02);
           }
           else{
-            result =
+            result ="cannot travel that far"
           }
         break;
   }
