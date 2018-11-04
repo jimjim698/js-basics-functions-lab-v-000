@@ -14,3 +14,6 @@ function distanceFromHqInBlocks(street){
   
 }
 
+function distanceFromHqInFeet(){
+  
+}
